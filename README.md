@@ -15,3 +15,6 @@ Split bill calculator
 Treasure map quest 
 
 True Love calculator 
+
+Password Generator 
+
