@@ -6,6 +6,8 @@ BIll Roullete
 
 Coin Toss
 
+Hangman 
+
 Rock, Paper, Scissors
 
 Rollercoster Project 
