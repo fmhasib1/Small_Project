@@ -20,5 +20,7 @@ Treasure map quest
 
 True Love calculator 
 
+Caser Cypher
+
 Password Generator 
 
