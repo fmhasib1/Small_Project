@@ -8,6 +8,8 @@ Coin Toss
 
 Hangman 
 
+Prime Checker 
+
 Rock, Paper, Scissors
 
 Rollercoster Project 
