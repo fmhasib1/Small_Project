@@ -22,5 +22,5 @@ True Love calculator
 
 Caser Cypher
 
-Password Generator 
+Password  Generator 
 
